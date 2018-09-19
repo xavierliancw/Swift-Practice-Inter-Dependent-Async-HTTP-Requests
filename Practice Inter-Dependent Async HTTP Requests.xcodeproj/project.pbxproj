@@ -54,12 +54,12 @@
 		255E0FCD2152C16800EFE709 /* Practice Inter-Dependent Async HTTP Requests */ = {
 			isa = PBXGroup;
 			children = (
+				255E0FDA2152C16900EFE709 /* Info.plist */,
 				255E0FCE2152C16800EFE709 /* AppDelegate.swift */,
 				255E0FD02152C16800EFE709 /* ViewController.swift */,
 				255E0FD22152C16800EFE709 /* Main.storyboard */,
 				255E0FD52152C16900EFE709 /* Assets.xcassets */,
 				255E0FD72152C16900EFE709 /* LaunchScreen.storyboard */,
-				255E0FDA2152C16900EFE709 /* Info.plist */,
 			);
 			path = "Practice Inter-Dependent Async HTTP Requests";
 			sourceTree = "<group>";
@@ -285,6 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CHXJAVM768;
 				INFOPLIST_FILE = "Practice Inter-Dependent Async HTTP Requests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +304,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = CHXJAVM768;
 				INFOPLIST_FILE = "Practice Inter-Dependent Async HTTP Requests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
